@@ -1,0 +1,14 @@
+{
+  "name": "ut-worker",
+  "version": "1.0.0",
+  "description": "scheduled task library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "utkarsh85",
+  "license": "ISC",
+  "dependencies": {
+    "later": "^1.2.0"
+  }
+}
